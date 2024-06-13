@@ -22,9 +22,15 @@
 }
 
 
-#start, #status {
+#start {
     font-size: 22px;
     background-color: white;
+}
+
+#status {
+    font-size: 22px;
+    background-color: dodgerblue;
+
 }
 
 #restart {
